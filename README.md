@@ -29,5 +29,6 @@ Primary and foreign key relationships ensure data integrity and accurately model
 
 ## 📁 Project Components
 - Entity‑Relationship Diagram (ERD)  
-- Table creation scripts  
-- SQL queries for retrieving event information  
+- [Table creation scripts](https://github.com/DarcyH2024/Wedding-Dinner-Planner/raw/refs/heads/main/WDP%20Table%20Creation.sql)  
+- [SQL queries for retrieving event information](https://github.com/DarcyH2024/Wedding-Dinner-Planner/raw/refs/heads/main/WDP%20Queries.sql)
+- [Eexcutive Summary](https://github.com/DarcyH2024/Wedding-Dinner-Planner/raw/refs/heads/main/WDP%20Executive%20Summary.docx)
